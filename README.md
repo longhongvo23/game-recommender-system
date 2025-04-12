@@ -1,7 +1,8 @@
 ```markdown
 # 🎮 Game Recommender System
 
-Welcome to the **Game Recommender System**, a web application built using **Python** and **Streamlit**, designed to help users discover games based on content similarity using natural language processing techniques.
+Welcome to the **Game Recommender System**, a web application built using **Python** and **Streamlit**,
+designed to help users discover games based on content similarity using natural language processing techniques.
 
 
 ---
