@@ -3,8 +3,6 @@
 
 Welcome to the **Game Recommender System**, a web application built using **Python** and **Streamlit**, designed to help users discover games based on content similarity using natural language processing techniques.
 
-![demo](https://github.com/user-attachments/assets/883ef749-c8f5-4d32-a6c1-1d09bd23bd46)
-
 
 ---
 
@@ -40,6 +38,7 @@ git clone https://github.com/yourusername/game-recommender-system.git
 cd game-recommender-system
 pip install -r requirements.txt
 ```
+![demo](https://github.com/user-attachments/assets/3534f3f6-d9ca-4ed4-a3a6-df91f701284e)
 
 ---
 
